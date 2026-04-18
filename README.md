@@ -7,7 +7,7 @@
 Using the two in conjunction is one of the fastest ways to build a web app.
 
 ### Getting Started
--Import all files to repl.it library in your newly created project
+- Import all files to repl.it library in your newly created project
 - Hit run
 - Edit [App.jsx](#src/App.jsx) and watch it live update! (only if needed)
 
